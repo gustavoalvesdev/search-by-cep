@@ -1,0 +1,22 @@
+{
+    "name": "gustavoalvesdev/search-by-cep",
+    "description": "This library returns address information based on the CEP (Brazilian zipcode) of the required address, using ViaCEP API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gustavoalvesdev",
+            "email": "gustavoalvesdasilva@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Gustavoalvesdev\\SearchByCEP\\": "src"
+        }
+    }
+}
