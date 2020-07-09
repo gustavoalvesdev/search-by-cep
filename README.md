@@ -6,6 +6,6 @@ Packagist package that returns address information given the CEP (Brazilian zipc
 
 ## TODO
 Add support to the following CEP APIs:
-  - [] http://cep.io
-  - [] https://apps.widenet.com.br/busca-cep/api-de-consulta
-  - [] https://webmaniabr.com/docs/rest-api-cep-ibge
+  - [ ] http://cep.io
+  - [ ] https://apps.widenet.com.br/busca-cep/api-de-consulta
+  - [ ] https://webmaniabr.com/docs/rest-api-cep-ibge
