@@ -14,7 +14,7 @@ class Search
         // requests the zipCode information from de url and returns the result in JSON format
         $get = file_get_contents($this->url . $zipCode . '/json');
 
-        return (array) json_decode($get);
+        return json_decode($get, true);
     }
 
 }
