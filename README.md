@@ -1,6 +1,6 @@
 # Search By CEP
-[![Latest Stable Version](https://poser.pugx.org/gustavoalvesdev/search-by-cep/v)](packagist.org/packages/gustavoalvesdev/search-by-cep)
-[![License](https://poser.pugx.org/gustavoalvesdev/search-by-cep/license)](packagist.org/packages/gustavoalvesdev/search-by-cep)
+[![Latest Stable Version](https://poser.pugx.org/gustavoalvesdev/search-by-cep/v)](https://packagist.org/packages/gustavoalvesdev/search-by-cep)
+[![License](https://poser.pugx.org/gustavoalvesdev/search-by-cep/license)](https://packagist.org/packages/gustavoalvesdev/search-by-cep)
 
 Packagist library that returns address information given the CEP (Brazilian zipcode) of the required address, using ViaCEP API.
 
